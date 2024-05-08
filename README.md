@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kjadec
-- 🌱 This page holds work from my summer research, as well as little side projects!
+
 
 
 <!---
